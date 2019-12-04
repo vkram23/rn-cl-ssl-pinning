@@ -1,6 +1,6 @@
 {
-  "name": "react-native-ssl-pinning",
-  "version": "1.2.0",
+  "name": "rn-cl-ssl-pinning",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaxToyberman/react-native-ssl-pinning.git"
+    "url": "git+https://github.com/vkram23/rn-cl-ssl-pinning.git"
   }
 }
